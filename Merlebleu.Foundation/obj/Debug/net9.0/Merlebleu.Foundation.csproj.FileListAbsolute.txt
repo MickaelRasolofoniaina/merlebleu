@@ -1,0 +1,12 @@
+c:\Asa\Merlebleu\Application\backend\Merlebleu.Foundation\bin\Debug\net9.0\Merlebleu.Foundation.deps.json
+c:\Asa\Merlebleu\Application\backend\Merlebleu.Foundation\bin\Debug\net9.0\Merlebleu.Foundation.dll
+c:\Asa\Merlebleu\Application\backend\Merlebleu.Foundation\bin\Debug\net9.0\Merlebleu.Foundation.pdb
+c:\Asa\Merlebleu\Application\backend\Merlebleu.Foundation\obj\Debug\net9.0\Merlebleu.Foundation.csproj.AssemblyReference.cache
+c:\Asa\Merlebleu\Application\backend\Merlebleu.Foundation\obj\Debug\net9.0\Merlebleu.Foundation.GeneratedMSBuildEditorConfig.editorconfig
+c:\Asa\Merlebleu\Application\backend\Merlebleu.Foundation\obj\Debug\net9.0\Merlebleu.Foundation.AssemblyInfoInputs.cache
+c:\Asa\Merlebleu\Application\backend\Merlebleu.Foundation\obj\Debug\net9.0\Merlebleu.Foundation.AssemblyInfo.cs
+c:\Asa\Merlebleu\Application\backend\Merlebleu.Foundation\obj\Debug\net9.0\Merlebleu.Foundation.csproj.CoreCompileInputs.cache
+c:\Asa\Merlebleu\Application\backend\Merlebleu.Foundation\obj\Debug\net9.0\Merlebleu.Foundation.dll
+c:\Asa\Merlebleu\Application\backend\Merlebleu.Foundation\obj\Debug\net9.0\refint\Merlebleu.Foundation.dll
+c:\Asa\Merlebleu\Application\backend\Merlebleu.Foundation\obj\Debug\net9.0\Merlebleu.Foundation.pdb
+c:\Asa\Merlebleu\Application\backend\Merlebleu.Foundation\obj\Debug\net9.0\ref\Merlebleu.Foundation.dll
