@@ -21,7 +21,6 @@
 
   <ItemGroup>
     <Folder Include="Expense\DeleteExpense\" />
-    <Folder Include="Expense\GetExpenseById\" />
     <Folder Include="Expense\GetExpenses\" />
     <Folder Include="Expense\UpdateExpense\" />
   </ItemGroup>

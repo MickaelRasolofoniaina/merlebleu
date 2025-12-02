@@ -5,8 +5,8 @@ public record AddExpenseCommand(
     string Remarks,
     decimal Amount,
     DateTime Date,
-    Models.ExpenseType Type,
-    Models.ExpenseCategory Category) : ICommand<AddExpenseResult>;
+    ExpenseType Type,
+    ExpenseCategory Category) : ICommand<AddExpenseResult>;
 
 public record AddExpenseResult(Guid ExpenseId);
 

@@ -6,3 +6,5 @@ global using Mapster;
 global using Merlebleu.Spent.Data;
 global using MediatR;
 global using Microsoft.EntityFrameworkCore.Metadata.Builders;
+global using Merlebleu.Spent.Models;
+global using Merlebleu.Foundation.Exceptions;

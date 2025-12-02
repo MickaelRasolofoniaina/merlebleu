@@ -1,0 +1,25 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+**/bin/
+**/obj/
+*.ncb
+*.sdf
+*.opensdf
+*.sln.ide
+*.cache
+*.pdb
+*.ilk
+*.log
+*.tlog
+*.vspx
+*.vsp
+
+# Visual Studio Code
+.vscode/
+.history/
+*.code-workspace
+*.code-workspace.json

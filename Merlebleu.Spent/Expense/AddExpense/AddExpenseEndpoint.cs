@@ -5,8 +5,8 @@ public record AddExpenseRequest(
     string Remarks,
     decimal Amount,
     DateTime Date,
-    Models.ExpenseType Type,
-    Models.ExpenseCategory Category);
+    ExpenseType Type,
+    ExpenseCategory Category);
 
 public record AddExpenseResponse(Guid ExpenseId);
 
