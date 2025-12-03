@@ -8,3 +8,5 @@ global using MediatR;
 global using Microsoft.EntityFrameworkCore.Metadata.Builders;
 global using Merlebleu.Spent.Models;
 global using Merlebleu.Foundation.Exceptions;
+global using Merlebleu.Foundation.Helpers;
+global using Merlebleu.EFCore;

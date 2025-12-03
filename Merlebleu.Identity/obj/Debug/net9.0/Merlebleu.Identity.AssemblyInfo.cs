@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Merlebleu.Identity")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a128fde58ef1621cc453286baa567c1ef72f1bfc")]
 [assembly: System.Reflection.AssemblyProductAttribute("Merlebleu.Identity")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Merlebleu.Identity")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -12,7 +12,7 @@ namespace Merlebleu.Spent.Expense.GetExpenseById
         ExpenseCategory Category
     );
 
-    internal class GetExpenseByIdHandler(ApplicationDbContext context) : IQueryHandler<GetExpenseByIdQuery, GetExpenseByIdResult>
+    internal class GetExpenseByIdQueryHandler(ApplicationDbContext context) : IQueryHandler<GetExpenseByIdQuery, GetExpenseByIdResult>
     {
         public async Task<GetExpenseByIdResult> Handle(GetExpenseByIdQuery query, CancellationToken cancellationToken)
         {

@@ -1,7 +1,7 @@
 
 namespace Merlebleu.Spent.Expense.GetExpenseById;
 
-public record GetExpenseRequest(Guid ExpenseId) : IQuery<GetExpenseResponse>;
+public record GetExpenseRequest(Guid ExpenseId);
 
 public record GetExpenseResponse(Guid Id,
         string Description,
@@ -25,7 +25,7 @@ public class GetExpenseByIdEndpoint : ICarterModule
         })
         .WithName("GetExpenseById")
         .WithTags("Expenses")
-        .Produces<GetExpenseResponse>(StatusCodes.Status201Created)
+        .Produces<GetExpenseResponse>(StatusCodes.Status200OK)
         .ProducesProblem(StatusCodes.Status400BadRequest)
         .ProducesProblem(StatusCodes.Status500InternalServerError)
         .WithSummary("Get expense by Id.")

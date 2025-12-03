@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Merlebleu.History", "Merleb
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Merlebleu.Foundation", "Merlebleu.Foundation\Merlebleu.Foundation.csproj", "{7E93885A-5117-4E02-BBF2-9F5512B8934D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Merlebleu.EFCore", "Merlebleu.EFCore\Merlebleu.EFCore.csproj", "{8587CB52-E7D9-41E6-ABEF-3C859023AAE0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -139,6 +141,18 @@ Global
 		{7E93885A-5117-4E02-BBF2-9F5512B8934D}.Release|x64.Build.0 = Release|Any CPU
 		{7E93885A-5117-4E02-BBF2-9F5512B8934D}.Release|x86.ActiveCfg = Release|Any CPU
 		{7E93885A-5117-4E02-BBF2-9F5512B8934D}.Release|x86.Build.0 = Release|Any CPU
+		{8587CB52-E7D9-41E6-ABEF-3C859023AAE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8587CB52-E7D9-41E6-ABEF-3C859023AAE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8587CB52-E7D9-41E6-ABEF-3C859023AAE0}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{8587CB52-E7D9-41E6-ABEF-3C859023AAE0}.Debug|x64.Build.0 = Debug|Any CPU
+		{8587CB52-E7D9-41E6-ABEF-3C859023AAE0}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{8587CB52-E7D9-41E6-ABEF-3C859023AAE0}.Debug|x86.Build.0 = Debug|Any CPU
+		{8587CB52-E7D9-41E6-ABEF-3C859023AAE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8587CB52-E7D9-41E6-ABEF-3C859023AAE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8587CB52-E7D9-41E6-ABEF-3C859023AAE0}.Release|x64.ActiveCfg = Release|Any CPU
+		{8587CB52-E7D9-41E6-ABEF-3C859023AAE0}.Release|x64.Build.0 = Release|Any CPU
+		{8587CB52-E7D9-41E6-ABEF-3C859023AAE0}.Release|x86.ActiveCfg = Release|Any CPU
+		{8587CB52-E7D9-41E6-ABEF-3C859023AAE0}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

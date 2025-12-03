@@ -32,7 +32,7 @@ internal class AddExpenseCommandValidator : AbstractValidator<AddExpenseCommand>
     }
 }
 
-internal class AddExpenseHandler(ApplicationDbContext context) : ICommandHandler<AddExpenseCommand, AddExpenseResult>
+internal class AddExpenseCommandHandler(ApplicationDbContext context) : ICommandHandler<AddExpenseCommand, AddExpenseResult>
 {
     public async Task<AddExpenseResult> Handle(AddExpenseCommand command, CancellationToken cancellationToken)
     {
