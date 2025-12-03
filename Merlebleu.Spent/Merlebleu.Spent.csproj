@@ -15,7 +15,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Expense\DeleteExpense\" />
     <Folder Include="Expense\UpdateExpense\" />
   </ItemGroup>
 

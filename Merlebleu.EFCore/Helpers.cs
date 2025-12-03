@@ -1,5 +1,4 @@
 ﻿using Merlebleu.Foundation.Helpers;
-using Microsoft.EntityFrameworkCore;
 
 namespace Merlebleu.EFCore;
 
@@ -7,7 +6,7 @@ public static class PaginationHelper
 {
     public static int ComputeSkipValue(int pageNumber, int pageSize) => (pageNumber - 1) * pageSize;
 
-    public static async Task<PaginatedResult<T>> GetPagedListAsync<T>(IQueryable<T> query, int pageNumber, int pageSize) where T : class
+    public static async Task<PaginatedResult<T>> GetPagedListAsync<T>(this IQueryable<T> query, int pageNumber, int pageSize) where T : class
     {
         // Ensure page values
         pageNumber = Math.Max(pageNumber, 1);

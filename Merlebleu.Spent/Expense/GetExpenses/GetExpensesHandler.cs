@@ -9,7 +9,7 @@ internal class GetExpensesQueryHandler(ApplicationDbContext applicationDbContext
 {
     public async Task<GetExpensesResult> Handle(GetExpensesQuery request, CancellationToken cancellationToken)
     {
-        var expensesPagedList = await PaginationHelper.GetPagedListAsync(applicationDbContext.Expenses, request.PageNumber, request.PageSize);
+        var expensesPagedList = await applicationDbContext.Expenses.GetPagedListAsync(request.PageNumber, request.PageSize);
 
         var result = new GetExpensesResult(expensesPagedList.Items ?? Enumerable.Empty<Models.Expense>(), expensesPagedList.Pagination);
 

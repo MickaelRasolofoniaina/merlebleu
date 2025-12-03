@@ -2614,11 +2614,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Asa\\Merlebleu\\Application\\backend\\Merlebleu.Spent\\Merlebleu.Spent.csproj",
+      "projectUniqueName": "C:\\Asa\\Merlebleu\\Application\\backend\\Merlebleu.Spent\\Merlebleu.Spent.csproj",
       "projectName": "Merlebleu.Spent",
-      "projectPath": "c:\\Asa\\Merlebleu\\Application\\backend\\Merlebleu.Spent\\Merlebleu.Spent.csproj",
+      "projectPath": "C:\\Asa\\Merlebleu\\Application\\backend\\Merlebleu.Spent\\Merlebleu.Spent.csproj",
       "packagesPath": "C:\\Users\\Mickael\\.nuget\\packages\\",
-      "outputPath": "c:\\Asa\\Merlebleu\\Application\\backend\\Merlebleu.Spent\\obj\\",
+      "outputPath": "C:\\Asa\\Merlebleu\\Application\\backend\\Merlebleu.Spent\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2640,8 +2640,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "c:\\Asa\\Merlebleu\\Application\\backend\\Merlebleu.EFCore\\Merlebleu.EFCore.csproj": {
-              "projectPath": "c:\\Asa\\Merlebleu\\Application\\backend\\Merlebleu.EFCore\\Merlebleu.EFCore.csproj"
+            "C:\\Asa\\Merlebleu\\Application\\backend\\Merlebleu.EFCore\\Merlebleu.EFCore.csproj": {
+              "projectPath": "C:\\Asa\\Merlebleu\\Application\\backend\\Merlebleu.EFCore\\Merlebleu.EFCore.csproj"
             }
           }
         }
