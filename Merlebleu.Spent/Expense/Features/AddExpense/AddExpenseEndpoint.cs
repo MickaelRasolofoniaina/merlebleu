@@ -1,4 +1,4 @@
-namespace Merlebleu.Spent.Expense.AddExpense;
+namespace Merlebleu.Spent.Expense.Features.AddExpense;
 
 public record AddExpenseRequest(
     string Description,

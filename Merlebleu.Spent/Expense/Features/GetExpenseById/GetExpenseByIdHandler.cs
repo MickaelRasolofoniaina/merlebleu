@@ -1,4 +1,4 @@
-namespace Merlebleu.Spent.Expense.GetExpenseById
+namespace Merlebleu.Spent.Expense.Features.GetExpenseById
 {
     public record GetExpenseByIdQuery(Guid ExpenseId) : IQuery<GetExpenseByIdResult>;
 

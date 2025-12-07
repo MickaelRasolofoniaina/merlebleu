@@ -1,5 +1,5 @@
 
-namespace Merlebleu.Spent.Expense.GetExpenses;
+namespace Merlebleu.Spent.Expense.Features.GetExpenses;
 
 public record GetExpensesQuery(int PageNumber = 1, int PageSize = 10) : IQuery<GetExpensesResult>;
 

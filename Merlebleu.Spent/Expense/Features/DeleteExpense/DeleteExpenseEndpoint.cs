@@ -1,4 +1,4 @@
-namespace Merlebleu.Spent.Expense.DeleteExpense;
+namespace Merlebleu.Spent.Expense.Features.DeleteExpense;
 
 public record DeleteExpenseRequest(Guid ExpenseId);
 

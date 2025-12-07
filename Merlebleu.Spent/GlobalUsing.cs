@@ -10,3 +10,5 @@ global using Merlebleu.Spent.Models;
 global using Merlebleu.Foundation.Exceptions;
 global using Merlebleu.Foundation.Helpers;
 global using Merlebleu.EFCore;
+global using Merlebleu.Spent.Expense.Interfaces;
+global using Merlebleu.Spent.Expense.Validators;

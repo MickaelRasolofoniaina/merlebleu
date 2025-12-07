@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Merlebleu.Ingredient")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+36d8058d4adf0959d12f62da165b1e0703c323fa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+66a755b0fd565f7db8761ab9a5356e2210618d7d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Merlebleu.Ingredient")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Merlebleu.Ingredient")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
