@@ -1,10 +1,11 @@
 
 
+using Merlebleu.Foundation.Models;
+
 namespace Merlebleu.Spent.Models;
 
-public class Expense
+public class Expense : BaseModel
 {
-    public Guid Id { get; set; }
     public string Description { get; set; } = string.Empty;
     public string Remarks { get; set; } = string.Empty;
     public decimal Amount { get; set; }
